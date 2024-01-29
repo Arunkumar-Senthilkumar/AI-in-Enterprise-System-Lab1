@@ -18,3 +18,5 @@ if is_prime(number_to_check):
     print(f"{number_to_check} is a prime number.")
 else:
     print(f"{number_to_check} is not a prime number.")
+
+print("arun")
