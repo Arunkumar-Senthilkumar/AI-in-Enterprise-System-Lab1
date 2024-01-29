@@ -1,1 +1,1 @@
-# AI-in-Enterprise-System---Lab1
+# AI-in-Enterprise-System-Lab1
