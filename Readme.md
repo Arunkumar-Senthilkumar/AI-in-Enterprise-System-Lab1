@@ -1,0 +1,1 @@
+This piece of code is for finding whether the given number is prime or not.
